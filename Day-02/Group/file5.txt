@@ -1,0 +1,13 @@
+#!/bin/bash
+
+- Milk
+- Cheese
+- Butter
+- Yogurt
+- Cream
+- Paneer
+- Ice cream
+- Ghee
+- Egg
+- Buttermilk
+

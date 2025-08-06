@@ -1,0 +1,24 @@
+#!/bin/bash
+
+(-)= file
+(l)= link
+(d)= directory its means folder
+
+
+(r)= read
+(w)= write
+(x)= execute
+
+1st 3= User [rwx]
+2nd 3= Groups [rwx]
+3rd 3= Others [rwx]
+
+ 7 || rwx || 111
+ 6 || rw- || 110
+ 5 || r-x || 101
+ 4 || r-- || 100
+ 3 || -wx || 011
+ 2 || -w- || 010
+ 1 || --x || 001
+ 0 || --- || 000
+

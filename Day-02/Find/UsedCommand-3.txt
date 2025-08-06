@@ -1,0 +1,21 @@
+#!/bin/bash
+
+Find [path...] [Expression] this is the systex
+
+
+find /home/abhi/ -name "grep"
+
+find -name "*anyfile or folder what you searching*"
+
+find -iname "*any file po folder what ypu are searching*" but akhane i likhar karon holo jode searching korta koan file ba folder ar name bhul likha hoya jai tobe sa nija thaka simelar name file ba folder gulo ka output hissabe show kora deba taii "i" ar used kora hoy
+
+find /path -type f -name "*.txt" -and -size +1M
+
+find/path \(-name "*.txt"-or-name"*.pdf"\)
+
+find /path !-name"*.txt"
+
+find /path -size +100M
+
+find /path -size -50k
+

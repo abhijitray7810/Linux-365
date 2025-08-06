@@ -1,0 +1,20 @@
+
+ls – Lists files and directories in the current location.
+
+cd /path/to/directory – Changes the working directory.
+
+pwd – Prints the current working directory.
+
+mkdir new_folder – Creates a new directory.
+
+rmdir empty_folder – Removes an empty directory.
+
+rm file.txt – Deletes a file.
+
+rm -r folder – Deletes a folder and its contents.
+
+cp file1.txt file2.txt – Copies a file.
+
+cp -r dir1 dir2 – Copies a directory recursively.
+
+mv old_name new_name – Moves or renames a file or directory.

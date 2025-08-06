@@ -1,0 +1,22 @@
+#!/bin/bash
+
+1. grep the new.txt (this working the word are scarching in the new.txt file
+
+2. grep "the" new.txt (this are running but this is not a proper way for the write file but this is the proper way
+
+3. grep -ic "the" new.txt (fast counting the word and then print the number which bar the number
+
+4. grep -in "the" new.txt
+
+5. grep -iwn "the" new.txt
+
+6. grep "the" new.txt -iB2 (this meaning is the ta likha hobe ar holo the ar agar 2 ta word o likha hoya jabe 
+
+7. grep -rw "the"(   )  ( no file or folder are need the this commnad are scarching all the file and folder which in your computer )
+
+8. grep "^the" -iw file name or folder name are searching in the file
+(this command means fast line a ^ this symbol are searching and wordly this means W )
+
+9. grep "the" -iw multipull file or folder mane joto icha file ba folder day jata pare dela ki hobe sa search korba joto gulo file ba folder ami debo
+
+10. tail -f new.txt | grep "the" (this commnad are working the new.txt file ar modha ki the word ta acha ki ? 

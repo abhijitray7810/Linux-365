@@ -1,0 +1,19 @@
+#!/bin/bash
+
+ls
+cat
+pwd
+man
+ls -a
+cd
+cd ..
+cat -n simplefile.txt
+cat --number simplefile.txt
+ncal,cal
+man cat
+ls -l
+mkdir -p kids/amination/2010 this meaning is kids name create a folder and then amination folder are create and then 2010 name folder are create in the aminamtion folder
+
+touch
+
+stat simplefile.txt

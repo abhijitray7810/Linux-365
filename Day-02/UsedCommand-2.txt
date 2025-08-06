@@ -1,0 +1,24 @@
+#!/bin/bash
+
+ctrl+A = starting cursor 
+ctrl+E = ending cursor
+
+Alt+B = skips word backword
+
+Alt+F = skips word forword
+
+ctrl+K = clears text from cursor to lines end
+
+ctrl+Y = pastes cut/copied text
+
+ctrl+U = delete text from cursor to start of line in text
+
+ctrl+D = linux terminal deletes characters to the end of the current word
+
+ctrl+R = history searching
+
+ctrl+D = closed the terminal
+
+ctrl shift + = zoom in 
+
+

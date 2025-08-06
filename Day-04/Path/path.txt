@@ -1,0 +1,17 @@
+#!/bin/bash
+
+The PATH environment variable in Linux is a colon-separated list of directories that the shell searches when you type a command. For example, when you run ls, the shell looks through the directories listed in PATH to find the ls executable
+
+
+echo $PATH 
+
+OUTPUT:::
+      abhi@OMEN16:~$ echo $PATH
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Python313/Scripts/:/mnt/c/Python313/:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/nodejs/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Users/mraro/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/mraro/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/ProgramData/mraro/GitHubDesktop/bin:/mnt/c/Users/mraro/AppData/Local/GitHubDesktop/bin:/mnt/c/Users/mraro/AppData/Roaming/npm:/mnt/c/Program Files/JetBrains/WebStorm 2024.3.5/bin:/snap/bin
+
+
+1. Suppose you have a script that adds a custom directory to your PATH
+
+
+export PATH=$PATH:/home/abhi/bin atar mane holo home/abhi/bin name ar path ar modha path namer ja veriables ta create kora hoyachelo satasave hoya thaklo
+

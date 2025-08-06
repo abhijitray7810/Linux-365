@@ -1,0 +1,13 @@
+#!/bin/bash
+
+what is Alias ?
+
+A custom shortcut that represents - A longer command or series of commands
+
+
+alias short_name="your_command"
+
+ex: alias l="ls"
+ex: alias abhi="pwd"
+
+1. alias -p is the all exiting alias in the system show ar mane holo ja joto alias avelible acha ta dakhabe alias -p korle 

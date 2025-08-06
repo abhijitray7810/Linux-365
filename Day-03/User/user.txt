@@ -1,0 +1,16 @@
+#!/bin/bash
+
+sudo useradd abhijit [ new user create ]
+
+sudo useradd -m -s /bin/bash example-user
+
+sudo userdel abhijit [ create user delete ]
+
+awk -F ':' '{ print $1}' /etc/passwd [ checking who many user are logi                                       n in this pc ]
+
+1. sudo useradd abhijit
+2. sudo passwd abhijit
+3. sudo su - abhijit
+
+
+compgen -u [ checking This command directly lists usernames without ne              eding to parse   a list of usernames ]

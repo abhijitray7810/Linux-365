@@ -1,0 +1,13 @@
+#!/bin/bash
+
+- Chicken
+- Beef
+- Pork
+- Lamb
+- Fish
+- Shrimp
+- Crab
+- Lobster
+- Duck
+- Turkey
+

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+/etc/shadow – Stores encrypted user passwords
+
+
+encrypted password but not decrypted password in the shadow file 
+ this is no method restore the password'.

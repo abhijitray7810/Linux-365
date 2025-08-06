@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+ls -lh | sort -k5h
+
+this | is the pipe operators its workd ls holo list karba -lh human readable from and | this is the pipe and sort mane holo file take sort karba then -k this the sorting columns ways and 5 is the 5 number columns and h is the human readabless from write
+
+
+this acctual working 
+
+
+cat a.txt | grep 'mango' this grep are working specifik mango word are searching this is the acctual work in the grep commands
+

@@ -1,0 +1,18 @@
+#!/bin/bash
+command = command name + options + arguments
+
+options are case sensitive
+options can be combined
+options short form : cat -n simplefile.txt
+option long form: cat --number simplefile.txt -WM
+cat simplefile.txt
+ 
+
+
+man this the power commned if you did not know what command are are which work then you useds like 
+
+man(cat),man(ls),man(mkdir),man(ps)
+ 
+like this then you show the deties showing the command
+
+

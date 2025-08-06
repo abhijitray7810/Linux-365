@@ -1,0 +1,8 @@
+
+
+
+1. groupadd devops [ ar mane holo devops name ar notun group ctreat kora holo /ect/group dicrectory ta ] 
+
+2. cat /ect/group [ ata korla dakha jabe ja group ta create holo ki na ]
+
+3. usermod -aG devops abhii [ atar mane holo devops group ar abhii user ta toiri holo jakhane devops holo group ar abhii holo user ] 

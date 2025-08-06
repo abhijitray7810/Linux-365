@@ -1,0 +1,14 @@
+#!/bin/bash
+
+* * * * * echo "hello abhijit" >> /home/abhi/Linux-365/Day-04/cron/cron.txt
+
+
+
+* * * * *
+
+* = minutes
+* = hour
+* = Day of month
+* = month
+* = Day of week
+

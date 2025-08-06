@@ -1,0 +1,4 @@
+#!/bin/bash
+Hello this is the basic part
+and basic sturctur of linux
+

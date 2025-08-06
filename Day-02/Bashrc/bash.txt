@@ -1,0 +1,22 @@
+#!/bin/bash
+
+amon change jata change korla o jate change na hoy amon kichu likha hobe tar janno root user ar vitora change karta hobe
+
+
+mane
+
+abhi@OMEN16:~ ata holo promt ata ka o change kora jai tar janno
+
+export PS1=type:
+
+dela hobe ai ja abhi@omen16 ta acha ota type likha hoya jabe
+                                                                      abhi@OMEN16:~/Linux-365/Day-02$ export PS1=type:
+type:                                                                 type:
+type:                                                                 type:                                                                 type:
+type:                                                                 type:                                                                                                                                       amon ta hoya jabe                                                                        
+ls -a
+ 
+ata korla akta hidden file dakha jabe jar name (.bashrc)
+
+oii bashrc file ka cat kore kar vitora jode export PS1=type: ata likha save korla atar change all time save thakba
+

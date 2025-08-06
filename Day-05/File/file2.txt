@@ -1,0 +1,19 @@
+cat file.txt – Displays file content.
+
+tac file.txt – Displays file content in reverse order.
+
+less file.txt – Opens a file for viewing with scrolling support.
+
+more file.txt – Similar to less, but only moves forward.
+
+head -n 10 file.txt – Displays the first 10 lines of a file.
+
+tail -n 10 file.txt – Displays the last 10 lines of a file.
+
+nano file.txt – Opens a simple text editor.
+
+vi file.txt – Opens a powerful text editor.
+
+echo 'Hello' > file.txt – Writes text to a file, overwriting existing content.
+
+echo 'Hello' >> file.txt – Appends text to a file without overwriting.

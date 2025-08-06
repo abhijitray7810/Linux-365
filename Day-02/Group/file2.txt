@@ -1,0 +1,12 @@
+#!/bin/bash
+- Apple
+- Banana
+- Mango
+- Orange
+- Pineapple
+- Grapes
+- Strawberry
+- Watermelon
+- Papaya
+- Kiwi
+

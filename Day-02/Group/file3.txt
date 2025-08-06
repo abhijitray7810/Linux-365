@@ -1,0 +1,14 @@
+#!/bin/bash
+
+
+- Rice
+- Wheat
+- Bread
+- Pasta
+- Noodles
+- Quinoa
+- Oats
+- Barley
+- Tortilla
+- Roti
+

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+echo $$ this is checking process id every new terminal are new process id like (919)
+ar mane holo ja new terminal/ shell ar process id
