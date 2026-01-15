@@ -1,5 +1,5 @@
 # Nautilus Project - Temporary User Account Setup
-![image]()
+![image](https://github.com/abhijitray7810/Linux-365/blob/09af3d8da1b45efee2339a2b389cfd2d574a7961/Day%2011%3A%20Temporary%20User%20Setup%20with%20Expiry/Screenshot%202026-01-15%20182451.png)
 ## Task Overview
 Create a temporary user account for developer `ammar` on App Server 3 in the Stratos Datacenter with an expiry date of January 28, 2027.
 
