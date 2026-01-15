@@ -38,5 +38,5 @@ grep james /etc/passwd
 # Verify no home directory was created
 ls -la /home/ | grep james
 ```
-![image]()
+![image](https://github.com/abhijitray7810/Linux-365/blob/3e9902d9450054c7c8f56a77b13bf0c4660999fc/Day%2010%3A%20Service%20User%20Creation%20without%20Home%20Directory/Screenshot%202026-01-15%20164313.png)
 The user 'james' is now created on App Server 3 without a home directory as requested.
