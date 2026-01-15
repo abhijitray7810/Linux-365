@@ -1,5 +1,5 @@
 # Nautilus App Server 3 - User Data Recovery Guide
-![image]()
+![image](https://github.com/abhijitray7810/Linux-365/blob/7aeaa1c91bbd62028f6ca0ad1152a9ad95870727/Day%2012%3A%20Linux%20User%20Data%20Transfer/Screenshot%202026-01-15%20183806.png)
 ## Task Overview
 Locate and copy all files owned by user `mark` from `/home/usersdata` to `/ecommerce` directory while preserving the complete directory structure on App Server 3.
 
