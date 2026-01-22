@@ -1,4 +1,4 @@
-- `ls` - List files and directories.
+ - `ls` - List files and directories.
 - `cd directory_name` - Change directory. 
 - `touch filename` - Create a empty file.
 - `mkdir directory_name` - Create a directory.
